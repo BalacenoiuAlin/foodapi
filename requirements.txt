@@ -2,3 +2,4 @@ fastapi[all]
 sqlalchemy
 pymysql
 uvicorn
+psycopg2-binary
